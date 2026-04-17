@@ -1,0 +1,219 @@
+
+--- Page 1 ---
+
+--- Page 2 ---
+Topic/Course 
+Sub-Topic (Example: name of college) Averages 
+
+--- Page 3 ---
+You along with 5 of your friends go for an outing. You have Rs. 31,348, Rs. 26,348, 
+Rs.23,348, Rs. 27,348, Rs. 32,348 and Rs. 35,348 with you. You plan to divide that amount 
+equally among yourselves before starting for this trip. All six of you agree to donate the 
+unspent money to an orphanage. What is the amount with each person at the start of the 
+journey? Question 1 
+
+--- Page 4 ---
+You along with 5 of your friends go for an outing. You have Rs. 31,348, Rs. 26,348, 
+Rs.23,348, Rs. 27,348, Rs. 32,348 and Rs. 35,348 with you. You plan to divide that amount 
+equally among yourselves before starting for this trip. All six of you agree to donate the 
+unspent money to an orphanage. If the last person lost his money when he was about to reach 
+the starting point and you still agree to share the money equally, what will be the amount with 
+each of you when you are starting? Question 2 
+
+--- Page 5 ---
+A pupil's mark was wrongly entered as 83 instead of 63. Due to that, the average mark of the 
+class increased by half a mark. The number of pupils in the class is: 
+A)
+B)
+C)
+D)40
+20
+10
+73Question 3 
+
+--- Page 6 ---
+In the first 5 overs of a cricket game, the run rate was 4.6. What should be the run rate in the 
+remaining 15 overs to reach the target of 183 run in 20 overs match? 
+A)
+B)
+C)
+D)6.25
+10.5
+10.67 
+10.75 Question 4 
+
+--- Page 7 ---
+When a student weighing 45 kgs left the class, the weight of the remaining 59 students 
+increased by 200g. What is the average weight of the remaining 59 students? 
+A)
+B)
+C)
+D)57
+69
+54
+None of these Question 5 
+
+--- Page 8 ---
+The average score of 70 students is 35. The average score of first 28 students is 53. Find the 
+average of the remaining students. 
+A)
+B)
+C)
+D)42
+23
+53
+67Question 6 
+
+--- Page 9 ---
+The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years 
+older. If the ages of these two are excluded, the average age of the remaining players is one 
+year less than the average age of the whole team. What is the average age of the team? 
+A)
+B)
+C)
+D)23 
+22 
+21 
+20 Question 7 
+
+--- Page 10 ---
+A certain factory employed 600 men and 400 women and the average wage was Rs. 25.50 per 
+day, if a woman got Rs. 5 less than a man, then what are their daily wages? 
+A)
+B)
+C)
+D)25
+22.5
+24
+21.5Question 8 
+
+--- Page 11 ---
+The average age of husband, wife and their child 3 years ago was 27 years and that of wife 
+and the child 5 years ago was 20 years. The present age of the husband is? 
+A)
+B)
+C)
+D)40
+15
+20
+30Question 9 
+
+--- Page 12 ---
+The average age of 15 students of a class is 15 years. Out of these, the average age of 5 
+students is 14 years and that of the other 9 students is 16 years, The age of the 15th student is: 
+A)
+B)
+C)
+D)13
+12
+3
+11Question 10 
+
+--- Page 13 ---
+A library has an average of 510 visitors on Sundays and 240 on other days. What is the 
+average number of visitors per day in a month of 30 days beginning with a Sunday? 
+A)
+B)
+C)
+D)290
+300
+285
+230Question 11 
+
+--- Page 14 ---
+The average height of 30 boys out of a class of 50 boys is 160 cm. If the average height of the 
+remaining boys is 165 cm, the average height of the entire class (in cm) is: 
+A)
+B)
+C)
+D)161
+162
+163
+164Question 12 
+
+--- Page 15 ---
+9 men visited a hotel. 8 of them spent Rs.4 each for their meal and the 9th man spent Rs. 2 
+more than the average of all the nine. The total money spent by them for the meal is 
+A)
+B)
+C)
+D)38.25 
+40
+42.25 
+50Question 13 
+
+--- Page 16 ---
+5 Scores in a classroom are broken into 5 different ranges, 51-60, 61-70, 71-80, 81-90 and 91-100. 
+The number of students who have scored in each range is given below.51 to 60 - 3 students, 61 to 
+70 - 8 students, 71 to 80 - 7 students, 81 to 90 - 4 students, 91 to 100 - 3 students. Furthermore, we 
+know that the number of students who scored 76 or more is at least one more than those who 
+scored below 75. What is the minimum possible average overall of this class? 
+A)
+B)
+C)
+D)71.2
+70.6
+69.2
+72Question 14 
+
+--- Page 17 ---
+In a sequence of 25 terms, can 20 terms be below the average? Can 20 terms be between median 
+and average? Question 15 
+
+--- Page 18 ---
+Consider a class of 40 students whose average weight is 40 kgs. m new students join this class 
+whose average weight is n kgs. If it is known that m + n = 50, what is the maximum possible 
+average weight of the class now? 
+A)
+B)
+C)
+D)40.18 kg 
+40.56 kg 
+40.67 kg 
+40.49 kg Question 16 
+
+--- Page 19 ---
+The average score in an examination of 10 students of a class is 60. If the scores of the top five 
+students are not considered, the average score of the remaining students falls by 5. The pass mark 
+was 40 and the maximum mark was 100. It is also known that none of the students failed. If each 
+of the top five scorers had distinct integral scores, the maximum possible score of the topper is...... 
+A)
+B)
+C)
+D)100
+87
+95
+99Question 17 
+
+--- Page 20 ---
+From 10 numbers, a, b, c,...j, all sets of 4 numbers are chosen and their averages computed. Will 
+the average of these averages be equal to the average of the 10 numbers? Question 18 
+
+--- Page 21 ---
+Arun has 13 boxes of chocolates with him, with an average of 17 chocolates per box. If each box 
+has at least 11 chocolates and no two boxes have equal number of chocolates, then what can be 
+the maximum possible number of chocolates in any box? 
+A)
+B)
+C)
+D)23
+25
+29
+Cannot be determined Question 19 
+
+--- Page 22 ---
+At a certain upscale restaurant, there just two kinds of food items: entrees and appetizers. Each 
+entrée item costs $30, and each appetizer item costs $12.  Last year, it had a total of 15 food 
+items on the menu, and the average price of a food item on its menu was $18. This year, it added 
+more appetizer items, and the average price of a food item on its menu dropped to $15.  How 
+many appetizer items did it add this year? 
+A)
+B)
+C)
+D)3
+6
+9
+15Question 20 
+
+--- Page 23 ---
+THANK YOU 
