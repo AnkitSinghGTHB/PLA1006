@@ -97,12 +97,15 @@ This document contains step-by-step mental math strategies for ALL 20 questions 
 ---
 
 ### Question 11 (499th digit)
-**Question:** (34128700)²⁴⁹. Find 499th digit.
+**Question:** Find the 499th digit in the given expression: (34128700)²⁴⁹
 *   **Options:** `[A) 7  B) 9  C) 3  D) 1]`
-*   **Mental Trick:** 34128700 has 8 digits. (34128700)²⁴⁹ means repeating "34128700" 249 times = 1992 digits. 499th digit: 499/8 = 62 remainder 3. 3rd digit of "34128700" = 1.
-*   Wait — this is the number written 249 times, not raised to power! The expression means concatenation.
-*   499 = 62×8 + 3. 3rd digit = '1'.
-*   **Answer:** **D) 1**.
+*   **Mental Trick:** This is a brilliant trap question! When they ask for a specific digit from the right (like the 499th), look at the zeros.
+    *   The base number ends in two zeros: `34128700 = 341287 × 100`.
+    *   When raised to the power of 249: `(341287 × 100)²⁴⁹ = (341287)²⁴⁹ × 10⁴⁹⁸`.
+    *   This means the final massive number will have exactly **498 trailing zeros** at the end.
+    *   Therefore, the **499th digit** from the right is simply the very first non-zero digit, which is the **unit digit** of `(341287)²⁴⁹`.
+    *   Unit digit of `(...7)²⁴⁹`: Exponent 249 divided by 4 leaves a remainder of 1. So it follows `7¹ = 7`.
+*   **Answer:** **A) 7**.
 
 ---
 
