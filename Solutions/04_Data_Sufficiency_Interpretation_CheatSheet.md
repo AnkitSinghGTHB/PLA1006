@@ -20,6 +20,11 @@ Look at the options first. If they are widely spaced, heavily round your numbers
     *   **Mental Solution:** Just divide by 3.6. 
     *   `72 / 3.6` (multiply both by 10 to clear decimal) -> `720 / 36` = **20%**.
 
+### 📈 Single vs. Multiple Charts (DI)
+*   **Single Chart:** Usually straightforward. The key is to establish the "total" or "base value" immediately before attempting to calculate individual slices, bars, or line points.
+*   **Multiple Charts:** Commonly a Pie Chart (showing percentages of a total) paired with a Data Table (showing ratios within those percentages, e.g., Male:Female ratio).
+    *   *Strategy:* **Never calculate absolute values until the final step.** If the question asks for a ratio or percentage, you can almost always solve it using just the percentage and ratio units from the charts, completely ignoring the massive absolute total (e.g., "Total Population = 4,567,890").
+
 ---
 
 ## 2. Data Sufficiency (DS)

@@ -2,7 +2,32 @@
 
 ---
 
-## 1. Number System
+## 1. Number System & Calculations
+
+### 🗂️ Classification of Numbers
+*   **Prime Numbers:** Exactly 2 factors (1 and itself). *Note: 1 is neither prime nor composite.*
+*   **Composite Numbers:** More than 2 factors.
+*   **Co-primes:** Two numbers with a GCD (HCF) of exactly 1. (They don't have to be prime numbers themselves, e.g., 8 and 15).
+
+### ⚡ Simplifications & Multiplication (SAW & Oz Methods)
+*   **SAW Method (Split & Distribute):** Break down large numbers for mental math.
+    *   *Example:* $69 \times 7 = (70 - 1) \times 7 = 490 - 7 = 483$.
+*   **Oz Method (Multiples of 5):** Use fractions of 10, 100, 1000.
+    *   $\times 5 \rightarrow$ multiply by 10, divide by 2.
+    *   $\times 25 \rightarrow$ multiply by 100, divide by 4.
+    *   $\times 125 \rightarrow$ multiply by 1000, divide by 8.
+
+### 🟩 Squares (Minions & Mirrors) & Cubes
+*   **Minions Method (2-digit squares):** Based on $(a+b)^2 = a^2 + 2ab + b^2$.
+    *   *Example:* $32^2 \rightarrow 3^2 | 2^2 \rightarrow 0904 + (3 \times 2 \times 2) \times 10 = 0904 + 120 = 1024$.
+*   **Mirror Squares:** $12^2 = 144 \leftrightarrow 21^2 = 441$. $13^2 = 169 \leftrightarrow 31^2 = 961$.
+*   **Numbers ending in 5:** $N5^2 = [N \times (N+1)] | 25$. 
+    *   *Example:* $45^2 = (4 \times 5)|25 = 2025$.
+
+### 🔗 LCM & HCF (Applications)
+*   **Traffic Lights / Tolling Bells:** Finding the next simultaneous event? Always use **LCM**.
+*   **Dividing into groups / Measuring rods:** Finding the maximum common size? Always use **HCF (GCD)**.
+*   *Trick:* LCM $\times$ HCF = Product of the two numbers.
 
 ### 🔢 Essential Divisibility Rules (Saves heavy division)
 *   **Divisibility by 3 & 9:** The SUM of all digits must be divisible by 3 (or 9).

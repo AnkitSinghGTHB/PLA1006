@@ -22,6 +22,12 @@
     *   `7.5 = M2 * 3 / 20` -> `7.5 * 20 = 150`. 
     *   `M2 = 150 / 3` = **50 men**. 
 
+### 💰 Division of Wages
+**Rule:** Wages are always divided in the ratio of **Work Done**, not the number of days taken.
+*   **Mental Solution:** If A and B work together for the whole time, the wage ratio is exactly their **Efficiency Ratio**. 
+    *   *Example:* A does a job in 10 days (Eff 3), B in 15 days (Eff 2). Total Wage = $500.
+    *   A's share: $\frac{3}{5} \times 500 =$ **$300**. B's share: $\frac{2}{5} \times 500 =$ **$200**.
+
 ---
 
 ## 2. Time, Speed, and Distance (TSD)
@@ -62,6 +68,12 @@ When a train crosses an object with length: Distance = Train + Object. Speed = `
         *   Downward Speed (D) = `24 / 2` = 12 kmph
         *   Upward Speed (U) = `24 / 4` = 6 kmph
         *   Stream speed = `(12 - 6) / 2` = `6 / 2 = ` **3 kmph**.
+
+### 🏁 Races & Headstarts
+*   **"A gives B a headstart of 10m"**: In a 100m race, A runs 100m, but B only needs to run 90m in the same time.
+*   **"A beats B by 10 seconds"**: A finishes the race 10 seconds before B.
+*   **Circular Tracks (Meeting point):** 
+    *   Time to meet at the **starting point** = $LCM(Time\_per\_lap\_A, Time\_per\_lap\_B)$.
 
 ---
 

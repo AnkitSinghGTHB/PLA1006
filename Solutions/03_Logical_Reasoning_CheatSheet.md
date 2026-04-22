@@ -72,6 +72,18 @@ For an `n * n * n` cube cut from a larger painted cube:
 
 ---
 
+## 6. Data Arrangements
+
+### 🪑 Linear & Circular Seating
+*   **Linear Seating:** Always draw dashes for positions `_ _ _ _ _`. Fix the definite positions first (e.g., "A sits at an extreme end"). Wait to place relative positions (e.g., "B is second to the left of C") until you have strong anchors.
+*   **Circular Seating:** If facing the center: *Left* = Clockwise, *Right* = Anti-Clockwise. Start plotting from the bottom of the circle (6 o'clock position) as it's easiest to visualize left/right from your own physical perspective.
+
+### 🏢 Floor & Tabulation Puzzles
+*   **Floor Puzzles:** Always draw a grid with floors numbered top-to-bottom (e.g., 5, 4, 3, 2, 1) and columns for variables (Name, Color, Profession). 
+*   **Tabulation/Matrix:** When matching people to objects/cities (1-to-1 mapping), use a tick/cross matrix. If A is matched with Blue, put a tick, and immediately fill the rest of A's row and Blue's column with crosses.
+
+---
+
 ## 🔥 High-Frequency Exam Patterns & Hotspots
 
 ### 🕛 Clock Coincidence / Opposite Directions

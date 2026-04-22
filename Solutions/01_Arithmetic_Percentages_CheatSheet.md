@@ -57,6 +57,15 @@ Formula: `MP / CP = (100 + Profit%) / (100 - Discount%)`
 *   **Example Question:** Average weight of 19 students is 40kg. If the teacher joins, the new average becomes 41kg. What is the teacher's weight?
     *   **Mental Solution:** `40kg (old avg) + [ 20 (new total people) * +1 (increase) ] = 40 + 20 = `**60kg**.
 
+### ⚖️ Weighted Averages
+When combining two groups with different averages, use the weighted average formula.
+**Formula:** $A_w = \frac{n_1 \cdot A_1 + n_2 \cdot A_2}{n_1 + n_2}$
+*   **Mental Shortcut (Deviation):** If Group A ($n=20$) has avg $50$, and Group B ($n=30$) has avg $60$.
+    *   Assume base avg = $50$.
+    *   Group B is $+10$ above base. Total extra = $30 \times 10 = 300$.
+    *   Spread extra over EVERYONE ($20+30=50$ people): $300 / 50 = +6$.
+    *   New Avg = $50 + 6 =$ **$56$**.
+
 ---
 
 ## 4. Mixtures & Alligations
@@ -84,6 +93,16 @@ Formula: `MP / CP = (100 + Profit%) / (100 - Discount%)`
     *   X: `5 * 12 = 60`
     *   Y: `6 * 8 = 48`
     *   Ratio: 60 : 48 -> Divide by 12 -> **5 : 4**.
+
+### 🕰️ Problems on Ages
+**Trick:** The difference in ages between two people is ALWAYS constant.
+*   **Example Question:** 10 years ago, A was half of B in age. If the ratio of their present ages is 3:4, what will be the total of their present ages?
+    *   **Mental Solution:**
+        *   Past Ratio (A:B) = $1:2 \rightarrow$ Difference is $1$ unit.
+        *   Present Ratio (A:B) = $3:4 \rightarrow$ Difference is $1$ unit.
+        *   Since the difference is constant ($1$ unit), compare directly: A went from $1 \rightarrow 3$ units. That's a jump of $2$ units.
+        *   This $2$ unit jump equals $10$ years. So $1$ unit = $5$ years.
+        *   Total present age units = $3 + 4 = 7$ units. Total age = $7 \times 5 =$ **$35$ years**.
 
 ---
 
