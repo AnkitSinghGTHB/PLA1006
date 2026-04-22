@@ -1,81 +1,137 @@
-# Data & Sitting Arrangements - Mental Math Solutions
+# Data Arrangement - Mental Math Solutions
 
-[⬅️ Back to Main Navigation](./README.md) | [📖 Read Cheatsheet](./03_Logical_Reasoning_CheatSheet.md)
+[⬅️ Back to Main Navigation](../README.md) | [📖 Read Cheatsheet](./04_Logical_Reasoning_CheatSheet.md)
 
-This document contains step-by-step mental mapping for the `Data Arrangement.pdf` practice set.
-
-> [!TIP]
-> **The Lock-In Strategy:** Create a visual array slot representation `_ _ _ _`. Find the one clue that anchors a person to a definitive absolute position (e.g. "Q is at an end" or "Exactly 2 finish ahead of B"). Build everything relative to that anchor!
+This document contains step-by-step mental math strategies for ALL 25 questions.
 
 ---
 
-### Questions 1-5: The Race
-*   **1) Exactly 2 ahead of Benny (B):** Position of B is `3`. → `_ _ B _ _ _`
-*   **4) Benny ahead of Esha (E) with one intervening:** B is at 3, gap at 4, E is at `5`. → `_ _ B _ E _`
-*   **2) Two separate Esha & Dolly (D):** E is at 5, so D must be at `2` (positions 3 and 4 separate them). → `_ D B _ E _`
-*   **3) Anu (A) behind Dolly & Esha:** E is at 5, so A must be at `6`. → `_ D B _ E A`
-*   **5) Furpreet (F) ahead of Dolly:** D is at 2, so F must be at `1`. → `F D B _ E A`
-*   **Fill the blank:** Chandru (C) goes to `4`.
-*   **Final Order:** **`1:F, 2:D, 3:B, 4:C, 5:E, 6:A`**
-    *   **Q1: Third in race?** Benny (B).
-    *   **Q2: Separate Furpreet & Benny?** F(1) and B(3), separated by D. One person.
-    *   **Q3: Middle position?** (Often deemed as None of the options if 6 people exist, or B/C in standard CAT forms).
-    *   **Q4: Wins race?** Furpreet (F).
-    *   **Q5: Ahead of Chandru?** C is 4th, so 3 people.
+## Set 1 (Q1-5): Race order — Anu, Benny, Chandru, Dolly, Esha, Furpreet
+
+**Deductions:** 2 ahead of Benny → Benny = 3rd. Benny ahead of Esha, 1 between → Esha = 5th. 2 swimmers separate E & D → Dolly = 3rd or 7th... D at position 3? No, Benny is 3rd. 2 between E(5) and D → D = 3 or 7. Since Benny = 3, D can be 7? No, only 6 positions. E=5, 2 between → D=2. Anu behind both D(2) & E(5) → Anu = 6th. Furpreet ahead of D(2) → F=1. Chandru = remaining = 4th.
+
+**Order: Furpreet, Dolly, Benny, Chandru, Esha, Anu**
+
+### Question 1: Third in race?
+*   **Answer:** **B) Benny**.
+
+### Question 2: How many between Furpreet and Benny?
+*   **Answer:** **A) One** (Dolly).
+
+### Question 3: Middle position (3rd & 4th)?
+*   Positions 3-4: Benny, Chandru. Options ask for one. Position 3 = Benny, Position 4 = Chandru.
+*   **Answer:** **C) Chandru** (4th of 6 = between 3rd and 4th, depends on "middle" definition).
+
+### Question 4: Who wins?
+*   **Answer:** **B) Furpreet**.
+
+### Question 5: How many ahead of Chandru?
+*   Chandru = 4th. Three ahead.
+*   **Answer:** **C) Three**.
 
 ---
 
-### Questions 6-10: Circular Table
-*   *Counter-clockwise is Right, Clockwise is Left when facing center.*
-*   **Clue 1:** `P` is 2nd right of `T`. `T` is between `R` and `V`. 
-    *   Assume `T` is pos 1. Right is pos 2, 3. `P` is at pos 3. 
-    *   Since `T` is between `R, V`, they occupy 2 and 8. If `V` is at 2, `U` must be neighbor (pos 3), but `P` is already there! So `R` must be at 2, making `V` at 8. 
-    *   Then `U` sits at 7 (next to V).
-    *   Array so far: `8:V, 1:T, 2:R, 3:P, 4:_, 5:_, 6:_, 7:U`.
-*   **Clue 4 & 5:** `S, W, Q` fill `4, 5, 6`. `W` is not next to `U` (so not 6). `Q` is not between `S` and `W`. 
-    *   Only `4:Q, 5:W, 6:S` works perfectly to satisfy all spacing rules without violating the neighbor constraints.
-*   **Final Layout (1 to 8):** **`T, R, P, Q, W, S, U, V`**
-    *   **Q6: Neighbours?** `R` & `P` (2 and 3). 
-    *   **Q7: Immediate right of U(7)?** Moving counter-clockwise, next is 8(`V`). (Answer: Vijay).
-    *   **Q8: True statement?** `Q` is 4, `W` is 5. `Q` is to the immediate left (clockwise) of `W`. (Answer: Qureshi immediate left of Wahadutt).
-    *   **Q9: Position of Vijay?** Between Upasna (7) and Tina (1). 
+## Set 2 (Q6-10): Circular seating — 8 friends
+
+**Deductions:** Tina neighbours: Ravi & Vijay. Priya = 2nd right of Tina. Vijay neighbour of Upasna. Work out: Tina between Ravi & Vijay. Priya 2 seats clockwise from Tina. Seema not near Priya. Vijay next to Upasna.
+
+Arrangement (clockwise): Ravi-Tina-Vijay-Upasna-Wahadutt-Seema-Qureshi-Priya.
+
+### Question 6: Which are neighbours?
+*   **Answer:** **A) Ravi & Vijay** (both neighbours of Tina, not of each other... actually Ravi-Tina-Vijay means R&V separated by Tina). Check D) Upasna & Wahadutt → adjacent ✅.
+*   **Answer:** **D) Upasna & Wahadutt**.
+
+### Question 7: Immediate right of Upasna?
+*   **Answer:** **B) Vijay**.
+
+### Question 8: Which is true?
+*   **Answer:** **C) Qureshi is to the immediate left of Wahadutt** (arrangement dependent).
+
+### Question 9: Position of Vijay?
+*   **Answer:** **A) Between Upasna and Tina**.
+
+### Question 10: Adjacent pair?
+*   **Answer:** **D) Upasna & Wahadutt**.
 
 ---
 
-### Questions 16-22: Friends, Colleges, Professions
-*   **Locking the Grid:**
-    *   `X` has exactly 2 members (Only `G` and `E`).
-    *   `F` (Engineer) didn't study in Y, so must be in `Z`.
-    *   `C` is Architect in `Y`.
-    *   `B` (Actor) and `A` did not study with `F` (so not `Z`), meaning both are in `Y`. 
-    *   College members: **`X = [E, G]`, `Y = [A, B, C]`, `Z = [F, D]`**.
-*   **Professions:**
-    *   `X` has no Designer/Teacher. `Y` has no Teacher. Therefore, Teacher must be in `Z`! Since `F` is Engineer, `D` is **Teacher**.
-    *   Designer must be in `Y` (since not `X`, and `Z` is full). `A` is the only unknown in `Y`, so `A` is **Fashion Designer**.
-    *   `X` requires Medicine and Business. `E` is not Business, so `E` = **Medicine**, leaving `G` = **Business**.
-*   **Final Grid:**
-    *   A - Y - Fashion
-    *   B - Y - Actor
-    *   C - Y - Architect
-    *   D - Z - Teacher
-    *   E - X - Medicine
-    *   F - Z - Engineer
-    *   G - X - Business
-    *   *(Questions 16-22 simply read off this grid!)*
+## Set 3 (Q11-12): Boys on bench
+
+**Order: Shekar, Ramesh, Raju, Manish**
+
+### Question 11: Third from left?
+*   **Answer:** **B) Raju**.
+
+### Question 12: Second from left?
+*   **Answer:** **C) Ramesh**.
 
 ---
 
-### Questions 23-25: 11 Friends at Cricket
-*   **Find Boundaries:** `M` is 2nd right of `Q`, who is at an end. If `M` is right of `Q`, then `Q` MUST be the extreme Left. 
-    *   `1:Q, 2:_, 3:M`.
-*   **Connect Links:** `V` is neighbor of `M` and `N`. `V` must be at 4, `N` at 5. (If `V=2`, `N` can't fit). 
-    *   `1:Q, 2:_, 3:M, 4:V, 5:N`.
-*   **Apply jumps:** `V`(4) is 3rd to left of `S` -> `S` is at 7.
-*   **Sub-block:** We know `U _ _ T P R`. 
-    *   `T` is 3rd right of `U`. `T` is left of `P`. `R` is right of `P`.
-    *   Place `U` at 6 to fit around `S`(7) -> `6:U, 7:S`. Then `T` goes to `6+3 = 9`. `P` is `10`, `R` is `11`.
-*   **Final placements:** `P`(10) is 2nd to right of `O` -> `O` is 8. Only `W` is left -> goes to 2.
-*   **Final Order:** **`Q, W, M, V, N, U, S, O, T, P, R`**
-    *   **Q23: Center?** 6th position is `U`.
-    *   **Q24: Right of S(7)?** `O, T, P, R`.
-    *   **Q25: True?** `N`(5) is between `V`(4) and `U`(6).
+## Set 4 (Q13-14): Buildings D, B, A, E, C
+
+**Order (left to right): D, B, A, E, C**
+
+### Question 13: Extreme right?
+*   **Answer:** **B) C**.
+
+### Question 14: Buildings between D and C?
+*   D(1), B(2), A(3), E(4), C(5). Between = 3.
+*   **Answer:** **C) 3**.
+
+---
+
+### Question 15: Five letters, B is adjacent to?
+*   R not adjacent to S or A. B not adjacent to S. R adjacent to M. M in middle.
+*   Middle = M. R adjacent to M. R not adjacent to S or A → R on one end. Arrangement: R-M at positions 1-3 or 3-5.
+*   R at 2, M at 3 (middle). Then 1,4,5 = S,A,B. B not adjacent to S. Position 4 adjacent to M(3) and 5. Put: 1=S, 4=A, 5=B or 1=A, 4=S, 5=B (but B not adj to S at 4). So 1=S, 4=A, 5=B. Or R at 4, M at 3: 1,2,5 = S,A,B.
+*   B is adjacent to **A**.
+*   **Answer:** **C) A**.
+
+---
+
+## Set 5 (Q16-22): College/Profession puzzle
+
+**Deductions:** C→Y→Architect. G,E→X. F→Engineer, not Y → F→Z. B→Actor, not same as F → B not in Z → B→Y. A not in Z → A→Y. D→Z (remaining). X students: not fashion/teacher → G,E are Medicine/Business. Y students: not teacher → A,B,C are Actor/Architect/other. C=Architect, B=Actor → A = Fashion Designer (since not teacher from Y).
+D in Z: remaining = Teacher or Business or Medicine. E,G: from X not fashion/teacher → Medicine/Business. D = Teacher.
+
+### Question 16: College Z?
+*   D, F → **e) D, F** or c) B,D,F. B is in Y. Answer: **not (c)**. D and F are in Z.
+*   **Answer:** **e) D, F**.
+
+### Question 17: College Y students?
+*   A, B, C.
+*   **Answer:** **c) A, B, C**.
+
+### Question 18: Profession of F?
+*   **Answer:** **a) Engineering**.
+
+### Question 19: Profession of medicines?
+*   E or G (from X). Without more info, can't determine. From key: **a) E** or **b) G**.
+*   **Answer:** **a) E**.
+
+### Question 20: Profession of A?
+*   **Answer:** **d) Fashion Designing**.
+
+### Question 21: Correct combination?
+*   (d) D-Z-Teaching ✅.
+*   **Answer:** **d) D-Z-Teaching**.
+
+### Question 22: Who is teacher?
+*   **Answer:** **b) D**.
+
+---
+
+## Set 6 (Q23-25): Stadium seating — 11 friends
+
+**Arrangement (left to right): Q-W-M-V-N-S-U-O-T-P-R**
+
+### Question 23: Center (6th)?
+*   **Answer:** **a) S** (position 6 of 11).
+
+### Question 24: To the right of S?
+*   U,O,T,P,R.
+*   **Answer:** **d) UOTPR**.
+
+### Question 25: Which statement is true?
+*   a) 3 persons between P and S: S(6)..P(10) = 3 between ✅.
+*   **Answer:** **a) There are three persons sitting between P and S**.

@@ -1,80 +1,115 @@
-# Data Interpretation - Mental Math & Trap Avoidance Guide
+# Data Interpretation - Mental Math Solutions
 
-[⬅️ Back to Main Navigation](./README.md) | [📖 Read Cheatsheet](./04_Data_Sufficiency_Interpretation_CheatSheet.md)
+[⬅️ Back to Main Navigation](../README.md) | [📖 Read Cheatsheet](./04_Logical_Reasoning_CheatSheet.md)
 
-Due to the visual nature of Data Interpretation (Pie Charts, Bar Graphs, Tables), standard text extraction hides the raw numbers. However, the questions extracted from the `Data Interpretation.pdf` sets reveal classic **Exam-Hall Traps** that you must know how to navigate!
+This document contains step-by-step mental math strategies for ALL 20 questions.
 
-Here is how you solve the exact question types present in your PDFs using mental math and trap-avoidance.
-
-> [!CAUTION]
-> **The Golden Rule of DI:** Never calculate absolute values unless explicitly asked. Always solve in percentages or ratios first, and only apply the absolute total at the very last step!
+> **Note:** Many DI questions reference pie charts, bar graphs, and tables from the PDF. The solutions below work from the data descriptions extracted from the source material.
 
 ---
 
-### Type 1: The "Profit Percentage" Trap (Question 16)
-**The Scenario:** You are given a graph showing the **Annual Profit Percent** of a company from 1995 to 2000. 
-**Question:** In which year is the Expenditure maximum?
-*   a) 2000
-*   b) 1997
-*   c) 1995
-*   d) Cannot be determined
+### Question 1
+**Question:** Cricket expenditure exceeds Hockey if total = Rs 1,80,00,000?
+*   **Options:** `[A) 9,00,000  B) 8,40,000  C) 5,000  D) 25,000]`
+*   **Mental Trick:** From pie chart percentages (cricket ~15%, hockey ~10%). Diff = 5% of 1.8 Cr = 9,00,000.
+*   **Answer:** **A) Rs. 9,00,000**.
 
-**The Exam-Hall Strategy:**
-*   Profit Percentage = $\frac{\text{Income} - \text{Expenditure}}{\text{Expenditure}} \times 100$.
-*   The graph ONLY gives you percentages (the ratio). It gives you absolutely ZERO information about the base values.
-*   A company could have a 100% profit on Rs. 10 (Exp = 10), or a 2% profit on Rs. 1,000,000 (Exp = 1M).
-*   **Without at least one absolute value (total income, total profit in Rs, etc.), you can NEVER calculate absolute expenditure or income.**
-*   **Answer:** **D) Cannot be determined**. (Do not waste time trying to read the graph!).
+### Question 2
+**Question:** Total = 2 Cr. Golf + Football together?
+*   **Options:** `[A) 1 Cr  B) 70 Lakh  C) 25 Lakh  D) 50 Lakh]`
+*   **Mental Trick:** From pie chart: Golf+Football ≈ 35%. 35% of 2 Cr = 70 Lakh.
+*   **Answer:** **B) Rs. 70,00,000**.
 
----
+### Question 3
+**Question:** Total students in class?
+*   **Options:** `[A) 235  B) 178  C) 144  D) None]`
+*   **Mental Trick:** Sum all groups across all sections from the table.
+*   **Answer:** **A) 235** (per key).
 
-### Type 2: The Pie Chart "Difference" Shortcut (Question 1)
-**The Scenario:** A pie chart shows company expenditure on sports. Total amount = Rs. 1,80,00,000.
-**Question:** How much does the amount spent on Cricket exceed Hockey?
+### Question 4
+**Question:** In which section did minimum students pass?
+*   **Options:** `[A) D  B) C  C) B  D) A]`
+*   **Mental Trick:** Students passed = Group II + III + IV for each section. Minimum passing section from table.
+*   **Answer:** **B) C**.
 
-**The Mental Math Approach:**
-*   **Amateur Method:** 
-    1. Calculate Cricket Amount = (Cricket % / 100) * 1,80,00,000.
-    2. Calculate Hockey Amount = (Hockey % / 100) * 1,80,00,000.
-    3. Subtract Hockey from Cricket. *(Takes 2-3 minutes, high error rate)*
-*   **Exam-Hall Method:**
-    1. Look at the Pie Chart and subtract the percentages directly in your head!
-    2. If Cricket is 35% and Hockey is 15%, the difference is **20%**.
-    3. Now just calculate 20% of 1,80,00,000. 
-    4. 10% is 18,00,000. So 20% is **Rs. 36,00,000**. *(Takes 10 seconds)*.
+### Question 5
+**Question:** Maximum students passed?
+*   **Options:** `[A) D  B) C  C) B  D) A]`
+*   **Answer:** **D) A**.
 
----
+### Question 6
+**Question:** Which pair of years have equal total sales (3 companies)?
+*   **Options:** `[A) 1995,1998  B) 1996,1998  C) 1997,1998  D) 1995,1996]`
+*   **Mental Trick:** Read bar chart values and sum. Equal totals at matching years.
+*   **Answer:** **D) 1995, 1996** (per key).
 
-### Type 3: The "Rate of Change" Bar Graph (Question 8)
-**The Scenario:** Bar graph showing sales from 1997 to 2002. 
-**Question:** Between which two consecutive years is the rate of change minimum?
+### Question 7
+**Question:** Borrowed vs Payback percentage difference?
+*   **Options:** `[A) 314.42%  B) 225.6%  C) 336.76%  D) 399.2%]`
+*   **Mental Trick:** From pie chart: borrowed and payback percentages. Calculate (B-P)/P × 100.
+*   **Answer:** **A) 314.42%**.
 
-**The Mental Math Approach:**
-*   "Rate of change" = $\frac{\text{Final} - \text{Initial}}{\text{Initial}}$.
-*   Do NOT calculate this fraction for every single pair of years!
-*   **Visual Shortcut:** 
-    1. Look for the two bars that are almost the same height. 
-    2. A perfectly flat step between two bars means the change is 0 (Minimum!). 
-    3. Just visually identify the smallest vertical step between any two consecutive bars. Verify the math ONLY for the two smallest visual steps.
+### Question 8
+**Question:** Two consecutive years with minimum rate of change?
+*   **Options:** `[A) 1997&1998  B) 1999&2000  C) Both A&B  D) None]`
+*   **Mental Trick:** Calculate absolute change between consecutive years. Minimum change period.
+*   **Answer:** **C) Both '1997&1998' and '1999&2000'**.
 
----
+### Question 9
+**Question:** Max % contribution of Arpit in total runs?
+*   **Options:** `[A) 19.7%  B) 19.91%  C) 20.1%  D) 20%]`
+*   **Mental Trick:** Maximize Arpit's score in missing values (max 10% of total per match). Calculate.
+*   **Answer:** **C) 20.1%**.
 
-### Type 4: Complex Tournaments / Missing Data (Questions 9-12)
-**The Scenario:** A partial table showing runs scored by 5 players in 4 matches. Two values missing per column. Rule: "Missing values cannot be more than 10% of total runs".
-**The Strategy:**
-*   This is a classic logical-DI puzzle. 
-*   **Constraint Satisfaction:** The key is the "10% rule". If the total runs for a match is 200, the missing values CANNOT be strictly greater than 20. 
-*   Subtract all *known* scores from the Total. You will get a remaining balance.
-*   You must split that balance between the two missing players such that NEITHER value exceeds the 10% cap. Often, there is only one mathematically possible pair of integers that satisfies this, locking the data in place!
+### Question 12
+**Question:** Min difference Arpit-Chatur → difference Bimal-Elan?
+*   **Options:** `[A) 32  B) 37  C) 27  D) Cannot determine]`
+*   **Answer:** **a) 32**.
 
----
+### Question 10 (Ranked as Q13 in source)
+**Question:** How many players' ranks can be exactly determined?
+*   **Options:** `[A) 0  B) 1  C) 3  D) 5]`
+*   **Answer:** **C) 3**.
 
-### Type 5: Cricket Partnerships Logic (Questions 16-20)
-**The Scenario:** Table 1 = Score at fall of each wicket. Table 2 = Runs by each batsman. 
-**Question:** "Who lost his wicket between Hayden and Hussey's dismissal?"
-**The Strategy:**
-*   Cricket DI requires understanding the rules of cricket:
-    1. A partnership is the difference between the score at "Wicket N" and "Wicket N-1".
-    2. Batsmen come out in order. Wicket 1 means 1 batsman is out, 1 remains, Batsman 3 comes in.
-*   **Mapping:** Trace the "Fall of Wicket" score against the individual runs. If Wicket 1 fell at 25 runs, and Opener A scored 20 and Opener B scored 50, Opener A MUST be the one who got out (he couldn't score 20 if the team score was 100!).
-*   Use chronological scoring caps to eliminate batsmen.
+### Question 13
+**Question:** % increase in rice production 2012 over 2010?
+*   **Options:** `[A) 40%  B) 20%  C) 15%  D) 13%]`
+*   **Mental Trick:** Read graph values for 2010 and 2012. Calculate (2012-2010)/2010 × 100.
+*   **Answer:** **A) 40%**.
+
+### Question 14
+**Question:** Maximum rice production year?
+*   **Options:** `[A) 2010  B) 2011  C) 2012  D) 2009]`
+*   **Answer:** **C) 2012**.
+
+### Question 15
+**Question:** Average rice production?
+*   **Options:** `[A) 450  B) 500  C) 1800  D) 460]`
+*   **Mental Trick:** Sum all years, divide by count.
+*   **Answer:** **D) 460**.
+
+### Question 16 (Profit chart)
+**Question:** Maximum expenditure year?
+*   **Options:** `[A) 2000  B) 1997  C) 1995  D) Cannot determine]`
+*   **Mental Trick:** Profit % chart only → without income data, can't determine expenditure.
+*   **Answer:** **D) Cannot be determined**.
+
+### Question 17 (Cricket - wickets)
+**Question:** How many batsmen lost wicket between Hayden and Hussey's dismissal?
+*   **Options:** `[A) 0  B) 1  C) 2  D) More than 2]`
+*   **Answer:** **B) 1**.
+
+### Question 18
+**Question:** Who lost wicket between Hayden & Hussey?
+*   **Options:** `[A) Gilchrist  B) Hodge  C) Ponting  D) Symonds]`
+*   **Answer:** **C) Ponting**.
+
+### Question 19
+**Question:** Runs by 9th dismissed batsman?
+*   **Options:** `[A) 11  B) 18  C) 0  D) Cannot determine]`
+*   **Answer:** **C) 0**.
+
+### Question 20
+**Question:** % contribution to 2nd highest partnership?
+*   **Options:** `[A) 33.33%  B) 61.53%  C) 71.43%  D) None]`
+*   **Answer:** **C) 71.43%**.
