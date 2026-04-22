@@ -84,3 +84,21 @@ Formula: `MP / CP = (100 + Profit%) / (100 - Discount%)`
     *   X: `5 * 12 = 60`
     *   Y: `6 * 8 = 48`
     *   Ratio: 60 : 48 -> Divide by 12 -> **5 : 4**.
+
+---
+
+## 🔥 High-Frequency Exam Patterns & Hotspots
+
+### ⚖️ False Weight / Dishonest Dealer (Profit & Loss)
+Very common across papers. If a dealer claims to sell at Cost Price but uses a 900g weight instead of 1000g, his profit is NOT 10%. 
+*   **Formula:** `Profit % = (Error / (True Value - Error)) * 100`. 
+*   Here, `(100 / 900) * 100 = 11.11%`.
+
+### 🧪 Mixture Replacement
+Repeated removal and replacement of a liquid (e.g., removing wine, replacing with water).
+*   **Formula:** `Final Quantity = Initial Quantity * (1 - Replacement_Volume / Total_Volume)^n`.
+*   *(Where n is the number of operations).*
+
+### 💰 CI vs SI Difference for 3 Years
+The 2-year difference formula `P*(R/100)^2` appears everywhere. But if they test 3 years, you need the extension.
+*   **3-Year Formula:** `Difference = P * (R/100)^2 * (3 + R/100)`.

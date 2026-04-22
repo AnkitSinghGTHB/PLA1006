@@ -44,3 +44,22 @@ If the ratio of the side lengths (or radii) of two similar figures is `a : b`:
     *   **Mental Solution:** Don't write out the `4πr^2` formulas!
         *   Surface Area Ratio = square them -> `2^2 : 3^2` = **4 : 9**.
         *   Volume Ratio = cube them -> `2^3 : 3^3` = **8 : 27**.
+
+---
+
+## 🔥 High-Frequency Exam Patterns & Hotspots
+
+### 💯 Trailing Zeros (Number System)
+To find the number of trailing zeros in a factorial (e.g., `100!`), continuously divide the number by 5 and sum the quotients. 
+*   `100 / 5 = 20`. 
+*   `20 / 5 = 4`. 
+*   Total trailing zeros = `20 + 4 = 24`.
+
+### 🧊 Melting and Recasting (Mensuration)
+When a 3D object is melted down to create another shape, **Volume is always constant** (Surface Area changes). 
+*   Always equate `Volume_1 = n * Volume_2` to find the number `n` of new objects.
+
+### 🛣️ Paths in/around Rectangles
+*   **Path *outside* a rectangle of L,B:** Area = `2w(L + B + 2w)`
+*   **Path *inside* a rectangle of L,B:** Area = `2w(L + B - 2w)`
+*   *(Where `w` is the width of the path).*

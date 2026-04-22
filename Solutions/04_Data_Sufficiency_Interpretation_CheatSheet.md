@@ -43,3 +43,16 @@ If a question asks for the exact ages of 3 people (3 variables), you generally n
     *   *Statement 2:* 1 apple + 1 cherry = $3
     *   **Mental Solution:** Look at the structure instantly. We have 3 variables (A, B, C) but only 2 equations inside the statements. You mathematically cannot lock down 3 unique variables with only 2 equations. 
     *   **Answer:** Instantly mark: Both statements together are STILL insufficient. (Saves 3 minutes of algebra).
+
+---
+
+## 🔥 High-Frequency Exam Patterns & Hotspots
+
+### 📉 The "Base" Trap in DI
+When comparing two percentages, ensure you know what the base is. 10% of a 2021 budget is not the same as 10% of a 2022 budget. Do not blindly add percentages from different pie charts without converting them to absolute values first.
+
+### ❓ The DS "Yes/No" Trap
+In Data Sufficiency, if a question asks "Is X > Y?", a definitive "**NO**" means the statement IS sufficient. Sufficiency is about having enough data to answer the question definitively, even if the answer is negative.
+
+### 🧮 Simultaneous Equations Trap in DS
+Two variables generally require two equations. BUT, if the equations are proportional (e.g., `x + y = 10` and `2x + 2y = 20`), they are functionally only ONE equation. Beware of redundant statements posing as new information.

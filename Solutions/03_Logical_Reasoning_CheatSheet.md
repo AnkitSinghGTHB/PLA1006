@@ -69,3 +69,24 @@ For an `n * n * n` cube cut from a larger painted cube:
     *   **Mental Solution:** 27 cubes means a `3 * 3 * 3` grid. So `n = 3`. 
     *   1 face painted = centers. Formula is `6 * (n-2)^2`.
     *   `6 * (3-2)^2` = `6 * 1` = **6 cubes**.
+
+---
+
+## 🔥 High-Frequency Exam Patterns & Hotspots
+
+### 🕛 Clock Coincidence / Opposite Directions
+*   Hands overlap (0 degrees) exactly **22 times** in 24 hours (not 24!). 
+*   They form 180 degrees (opposite) exactly **22 times** in 24 hours. 
+*   They form 90 degrees exactly **44 times** in 24 hours.
+
+### 📅 Calendar Repetition Rule
+A year's calendar repeats entirely after a fixed number of years:
+*   **Leap year:** + 28 years.
+*   **Leap year + 1:** + 6 years.
+*   **Leap year + 2 or + 3:** + 11 years.
+
+### ⭕ Circular Seating Maps
+Almost every paper has a 6-to-8 person circular seating puzzle.
+*   **Facing the Center:** *Right* = Anti-Clockwise, *Left* = Clockwise.
+*   **Facing Outside:** *Right* = Clockwise, *Left* = Anti-Clockwise.
+*   *Trick:* Always establish the "center" perspective before placing the first person. Draw a quick circle with arrows pointing in or out.

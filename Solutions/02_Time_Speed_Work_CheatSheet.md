@@ -62,3 +62,23 @@ When a train crosses an object with length: Distance = Train + Object. Speed = `
         *   Downward Speed (D) = `24 / 2` = 12 kmph
         *   Upward Speed (U) = `24 / 4` = 6 kmph
         *   Stream speed = `(12 - 6) / 2` = `6 / 2 = ` **3 kmph**.
+
+---
+
+## 🔥 High-Frequency Exam Patterns & Hotspots
+
+### 🚶 Escalator & Boat Drift Traps
+Escalators moving with/against you use the exact same logic as Boats and Streams.
+*   **Moving WITH Escalator (Downstream):** Your Speed + Escalator Speed.
+*   **Moving AGAINST Escalator (Upstream):** Your Speed - Escalator Speed.
+
+### ⏰ Late / Early Arrival (TSD)
+Very frequent: "If I walk at 4kmph I am 10 mins late, at 5kmph I am 5 mins early."
+*   **Direct Formula:** `Distance = (S1 * S2) / |S1 - S2| * (Time Difference in hours)`.
+*   *Mental check:* Convert minutes to hours before multiplying!
+
+### 🔄 Alternate Days Work (Time & Work)
+When A and B work on alternate days (A on Day 1, B on Day 2, etc.):
+1. Find their combined 2-day cycle efficiency.
+2. Divide total work by this cycle efficiency to find the number of *full cycles*.
+3. Calculate remaining work, and assign it to the next person in the sequence.
