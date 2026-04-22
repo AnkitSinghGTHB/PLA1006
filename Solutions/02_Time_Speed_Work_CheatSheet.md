@@ -54,7 +54,7 @@ When a train crosses an object with length: Distance = Train + Object. Speed = `
         *   Time = Distance / Speed = 400 / 20 = **20 seconds**.
 
 ### 🚤 Boats & Streams
-`D` = Upstream (Subtract), `U` = Downstream (Add)
+`U` = Upstream (Subtract), `D` = Downstream (Add)
 *   Boat Speed = `(D + U) / 2` 
 *   Stream Speed = `(D - U) / 2`
 *   **Example Question:** A boat travels 24km downstream in 2 hours, and takes 4 hours for the same upstream. Find the speed of the stream.
