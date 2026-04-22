@@ -39,12 +39,15 @@ This document contains step-by-step mental math strategies for ALL 20 questions 
 ---
 
 ### Question 5 (Last digit)
-**Question:** Last digit of 4356 × 567 × 4534?
+**Question:** What will be the last digit of 43^56 × 5^67 × 45^34?
 *   **Options:** `[A) 5  B) 0  C) 7  D) 3]`
-*   **Mental Trick:** Last digits: 6 × 7 × 4 = 42 × 4 = 168. Last digit = 8. Wait, that's not in options. Let me recheck: 6 × 7 = 42 (last digit 2) × 4 = 8. Hmm, no option 8. Re-reading: maybe the numbers have different parsing. Looking at options, anything × 5 × even = 0.
-*   Actually 567 ends in 7, 4534 ends in 4. 7×4 = 28 (last digit 8). ×6 = 48 (last digit 8). But option B is 0... Let me reconsider if one number contains 5 and another is even: 4356(even) × 567(has factor check) × 4534(even). None is explicitly 5-ending. Answer: **8** is not listed, so likely a PDF parsing issue.
-*   Most likely **B) 0** per the answer key.
-*   **Answer:** **B) 0**.
+*   **Mental Trick:** Find the unit digit of each term individually.
+    *   `43^56`: The unit digit depends on `3^56`. Since the exponent 56 is exactly divisible by 4, the cycle completes at `3^4`, which ends in 1.
+    *   `5^67`: Any positive power of a number ending in 5 will always end in 5.
+    *   `45^34`: Similarly, this will always end in 5.
+    *   Multiply the unit digits: `1 × 5 × 5 = 25`. The last digit is 5.
+    *   *Shortcut:* Since there are no even bases in this multiplication, the product of odd numbers and 5 will ALWAYS end in 5.
+*   **Answer:** **A) 5**.
 
 ---
 
